@@ -1,0 +1,476 @@
+{
+  "inventory": [
+    {
+      "id": 2,
+      "category": "machines",
+      "description": "Mac Pro 2013 A1481 erro grafico",
+      "quantity": 1,
+      "price": 1500,
+      "comments": "casa"
+    },
+    {
+      "id": 3,
+      "category": "machines",
+      "description": "Macbook Air M1 A2337 8Gb 256Gb",
+      "quantity": 1,
+      "price": 4000,
+      "comments": "alugado"
+    },
+    {
+      "id": 4,
+      "category": "boards",
+      "description": "Placa MacBook Pro A2151 128Gb + topcase funcionando com touchid",
+      "quantity": 1,
+      "price": 1200,
+      "comments": "sem tela"
+    },
+    {
+      "id": 5,
+      "category": "accessories",
+      "description": "Timecapsule 2Tb",
+      "quantity": 4,
+      "price": 500,
+      "comments": "revisados",
+      "image": "https://support.apple.com/pt-br/docs/accessories/134028"
+    },
+    {
+      "id": 6,
+      "category": "boards",
+      "description": "MacBook Pro A2141",
+      "quantity": 1,
+      "price": 3000,
+      "comments": "bateria troca"
+    },
+    {
+      "id": 7,
+      "category": "screens",
+      "description": "Tela iMac A1419 27pol trincado borda",
+      "quantity": 1,
+      "price": 1500,
+      "comments": ""
+    },
+    {
+      "id": 8,
+      "category": "topcases",
+      "description": "Topcases A1708 Spacegray",
+      "quantity": 3,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 9,
+      "category": "topcases",
+      "description": "Topcase A1707 Spacegray",
+      "quantity": 2,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 10,
+      "category": "screens",
+      "description": "Tela A1708 Silver",
+      "quantity": 2,
+      "price": 1500,
+      "comments": ""
+    },
+    {
+      "id": 11,
+      "category": "topcases",
+      "description": "Topcases A1708 Silver",
+      "quantity": 2,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 12,
+      "category": "accessories",
+      "description": "Ventoinha A1418",
+      "quantity": 4,
+      "price": 200,
+      "comments": ""
+    },
+    {
+      "id": 13,
+      "category": "screens",
+      "description": "Tela A1534 Space gray",
+      "quantity": 1,
+      "price": 800,
+      "comments": "tem topcase e placa"
+    },
+    {
+      "id": 14,
+      "category": "accessories",
+      "description": "Ventoinha A1318",
+      "quantity": 2,
+      "price": 150,
+      "comments": ""
+    },
+    {
+      "id": 15,
+      "category": "accessories",
+      "description": "Ventoinha A1319",
+      "quantity": 2,
+      "price": 180,
+      "comments": ""
+    },
+    {
+      "id": 16,
+      "category": "accessories",
+      "description": "SSD 128Gb A1708",
+      "quantity": 2,
+      "price": 300,
+      "comments": ""
+    },
+    {
+      "id": 17,
+      "category": "screens",
+      "description": "Tela A1932 Spacegray nota 9",
+      "quantity": 0,
+      "price": 1200,
+      "comments": ""
+    },
+    {
+      "id": 18,
+      "category": "screens",
+      "description": "Tela A1932 Silver nota 9.5",
+      "quantity": 0,
+      "price": 1300,
+      "comments": ""
+    },
+    {
+      "id": 19,
+      "category": "topcases",
+      "description": "Topcase A1534 dourado",
+      "quantity": 1,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 20,
+      "category": "accessories",
+      "description": "Trackpad A1534 dourado",
+      "quantity": 1,
+      "price": 350,
+      "comments": ""
+    },
+    {
+      "id": 21,
+      "category": "screens",
+      "description": "tela A2141 silver/space",
+      "quantity": 1,
+      "price": 2500,
+      "comments": "spacegray, silver"
+    },
+    {
+      "id": 22,
+      "category": "screens",
+      "description": "Tela A1418 SD F1",
+      "quantity": 2,
+      "price": 1500,
+      "comments": "LM215WF3(SD)(D1)"
+    },
+    {
+      "id": 23,
+      "category": "screens",
+      "description": "Tela iMac M1 Azul defeito listras",
+      "quantity": 2,
+      "price": 1500,
+      "comments": "casa | dep remoto"
+    },
+    {
+      "id": 24,
+      "category": "screens",
+      "description": "Tela iMac M1 branca defeito linha",
+      "quantity": 1,
+      "price": 1500,
+      "comments": "dep remoto"
+    },
+    {
+      "id": 25,
+      "category": "topcases",
+      "description": "Topcase A2337 spacegray (sem trackpad)",
+      "quantity": 1,
+      "price": 1100,
+      "comments": "nova"
+    },
+    {
+      "id": 26,
+      "category": "accessories",
+      "description": "Trackpad A1708 Silver",
+      "quantity": 1,
+      "price": 400,
+      "comments": "casa"
+    },
+    {
+      "id": 27,
+      "category": "screens",
+      "description": "Tela iMac Pro",
+      "quantity": 1,
+      "price": 5000,
+      "comments": "casa"
+    },
+    {
+      "id": 28,
+      "category": "boards",
+      "description": "A1708 placa/topcase full silver sem tela",
+      "quantity": 1,
+      "price": 1500,
+      "comments": "casa"
+    },
+    {
+      "id": 29,
+      "category": "topcases",
+      "description": "topcase A2141 silver/space",
+      "quantity": 2,
+      "price": 1000,
+      "comments": "casa"
+    },
+    {
+      "id": 30,
+      "category": "boards",
+      "description": "A2179 completo teclado trocando tecla digital",
+      "quantity": 1,
+      "price": 2500,
+      "comments": "casa"
+    },
+    {
+      "id": 31,
+      "category": "boards",
+      "description": "Placa mae A3113 touch/id Macbook Air M3",
+      "quantity": 1,
+      "price": 3000,
+      "comments": "casa nunca ativada"
+    },
+    {
+      "id": 32,
+      "category": "screens",
+      "description": "Tela A3113 Macbook Air M3 Midnight",
+      "quantity": 1,
+      "price": 2900,
+      "comments": "casa"
+    },
+    {
+      "id": 34,
+      "category": "topcases",
+      "description": "Topcase A2337 Silver sem trackpad nova",
+      "quantity": 1,
+      "price": 1000,
+      "comments": "casa"
+    },
+    {
+      "id": 35,
+      "category": "defective",
+      "description": "MacBook Air 2015 defeito placa",
+      "quantity": 1,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 36,
+      "category": "defective",
+      "description": "MacBook Air 2017",
+      "quantity": 1,
+      "price": 600,
+      "comments": ""
+    },
+    {
+      "id": 37,
+      "category": "defective",
+      "description": "Macbook Air A1465",
+      "quantity": 3,
+      "price": 200,
+      "comments": ""
+    },
+    {
+      "id": 38,
+      "category": "defective",
+      "description": "Placa A1706 com touchid sem icloud",
+      "quantity": 1,
+      "price": 300,
+      "comments": ""
+    },
+    {
+      "id": 39,
+      "category": "defective",
+      "description": "Placa A1708 icloud off",
+      "quantity": 1,
+      "price": 0,
+      "comments": ""
+    },
+    {
+      "id": 40,
+      "category": "defective",
+      "description": "Placa A1932 2018 icloud off",
+      "quantity": 1,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 41,
+      "category": "defective",
+      "description": "Placa iMac Pro 2017",
+      "quantity": 1,
+      "price": 2000,
+      "comments": ""
+    },
+    {
+      "id": 42,
+      "category": "mobile",
+      "description": "iPad 6 gen A1893 erro nand em DFU iCloud off",
+      "quantity": 1,
+      "price": 700,
+      "comments": ""
+    },
+    {
+      "id": 43,
+      "category": "mobile",
+      "description": "iPad Air 2 A1566",
+      "quantity": 1,
+      "price": 400,
+      "comments": ""
+    },
+    {
+      "id": 44,
+      "category": "mobile",
+      "description": "iPad 8 A2270 dourado on",
+      "quantity": 1,
+      "price": 800,
+      "comments": ""
+    },
+    {
+      "id": 45,
+      "category": "mobile",
+      "description": "iPad 6 A1893 branco off",
+      "quantity": 1,
+      "price": 600,
+      "comments": ""
+    },
+    {
+      "id": 46,
+      "category": "mobile",
+      "description": "iPad 7 A2197 preto off",
+      "quantity": 1,
+      "price": 700,
+      "comments": ""
+    },
+    {
+      "id": 47,
+      "category": "mobile",
+      "description": "iPad 8 A2270 preto off",
+      "quantity": 1,
+      "price": 800,
+      "comments": ""
+    },
+    {
+      "id": 48,
+      "category": "mobile",
+      "description": "Watch Series 6 44MM off",
+      "quantity": 1,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 49,
+      "category": "mobile",
+      "description": "Watch Series 7 41MM off",
+      "quantity": 1,
+      "price": 700,
+      "comments": ""
+    },
+    {
+      "id": 50,
+      "category": "mobile",
+      "description": "Watch Series SE on",
+      "quantity": 1,
+      "price": 500,
+      "comments": ""
+    },
+    {
+      "id": 51,
+      "category": "defective",
+      "description": "iMac A1312 rearhouse completa tela vidro",
+      "quantity": 1,
+      "price": 700,
+      "comments": ""
+    },
+    {
+      "id": 52,
+      "category": "defective",
+      "description": "iPad Air 2 A1566 (sucata)",
+      "quantity": 1,
+      "price": 400,
+      "comments": ""
+    },
+    {
+      "id": 53,
+      "category": "machines",
+      "description": "Macbook Air M1 A2337 8Gb 256Gb sem tela",
+      "quantity": 1,
+      "price": 2500,
+      "comments": "sem tela"
+    },
+    {
+      "id": 54,
+      "category": "accessories",
+      "description": "Memória DDR3 2Gb",
+      "quantity": 30,
+      "price": 100,
+      "comments": "para macbook pro A2178 2010/2011"
+    },
+    {
+      "id": 55,
+      "category": "machines",
+      "description": "iMac 2017 8Gb 240Gb SSD",
+      "quantity": 1,
+      "price": 3000,
+      "comments": "Carlos"
+    },
+    {
+      "id": 56,
+      "category": "machines",
+      "description": "iMac 2019 i5 8Gb 240Gb SSD",
+      "quantity": 1,
+      "price": 4000,
+      "comments": "Carlos"
+    },
+    {
+      "id": 57,
+      "category": "machines",
+      "description": "Mac mini 2010",
+      "quantity": 1,
+      "price": 700,
+      "comments": "com ssd 128gb",
+      "image": ""
+    }
+  ],
+  "categories": {
+    "machines": {
+      "name": "Máquinas Completas",
+      "icon": "fa-laptop"
+    },
+    "screens": {
+      "name": "Telas",
+      "icon": "fa-tv"
+    },
+    "topcases": {
+      "name": "Topcases",
+      "icon": "fa-keyboard"
+    },
+    "boards": {
+      "name": "Placas",
+      "icon": "fa-microchip"
+    },
+    "mobile": {
+      "name": "Mobile",
+      "icon": "fa-mobile-alt"
+    },
+    "accessories": {
+      "name": "Acessórios",
+      "icon": "fa-plug"
+    },
+    "defective": {
+      "name": "Peças com Defeito",
+      "icon": "fa-tools"
+    }
+  }
+}
